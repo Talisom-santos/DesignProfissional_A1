@@ -9,4 +9,4 @@ Nesta disciplina, estudamos lógica de programação, estruturas de decisão (if
 ## 📂 Projetos e Atividades
 *   **Calculadora Simples:** Script para operações básicas.
 *   **Média de Notas:** Algoritmo para calcular aprovação de alunos.
-*   **Jogo da Forca:** Atividade final sobre manipulação de strings.
+*   **Métodos de Ordenação:** Atividade exemplificando ordenação utilizando RGM.
