@@ -3,7 +3,7 @@
 **Aluno:** [Talisom Santos Izioro]  
 **Curso:** [Análise e Desenvolvimento de Sistemas]  
 **Instituição:** UDF Centro Universitário  
-**Semestre:** 1º Semestre
+**Semestre:** 1 Semestre
 
 ---
 
