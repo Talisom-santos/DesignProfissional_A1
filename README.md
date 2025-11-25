@@ -1,7 +1,7 @@
 # 🚀 Design Profissional - Avaliação A1
 
-**Aluno:** [Talisom Santos Izioro]  
-**Curso:** [Análise e Desenvolvimento de Sistemas]  
+**Aluno:** Talisom Santos Izioro 
+**Curso:** Análise e Desenvolvimento de Sistemas
 **Instituição:** UDF Centro Universitário  
 **Semestre:** 1 Semestre
 
