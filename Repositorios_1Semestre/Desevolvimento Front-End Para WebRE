@@ -1,0 +1,90 @@
+## 🚀 Desenvolvimento Front-End para Web
+
+Este repositório contém os materiais, projetos e exercícios desenvolvidos durante o curso/disciplina de **Desenvolvimento Front-End para Web**. O objetivo principal é capacitar o aluno a construir interfaces de usuário interativas, responsivas e visualmente atraentes para aplicações web.
+
+---
+
+### 🗺️ Estrutura do Curso (Unidades de Aprendizagem)
+
+Aqui você encontrará a base conceitual e o aprofundamento necessário para compreender os temas abordados ao longo do curso. Esta seção está dividida em quatro unidades de aprendizagem, cada uma com materiais e recursos cuidadosamente selecionados para enriquecer seu conhecimento. Recomendamos que você siga a ordem sequencial para uma melhor assimilação do aprendizado.
+
+| Unidade | Título Sugerido | Status / Foco | Acessar Conteúdo |
+| :--- | :--- | :--- | :--- |
+| **Unidade 1** | **Fundamentos Essenciais** | Contato inicial com os fundamentos que preparam o terreno para o aprendizado. | [Acessar Pasta da Unidade 1](unidade-1/) |
+| **Unidade 2** | **Expansão e Aplicação** | Daremos sequência aos estudos, expandindo os conhecimentos e mergulhando em novos conceitos. | [Acessar Pasta da Unidade 2](unidade-2/) |
+| **Unidade 3** | **Aprofundamento e Prática** | Momento crucial para aprofundar e aplicar o que foi aprendido (chegada a 50% do conteúdo). | [Acessar Pasta da Unidade 3](unidade-3/) |
+| **Unidade 4** | **Consolidação e Reta Final** | Consolidação do conhecimento, revisão dos pontos-chave e preparação para aplicação em novos contextos. | [Acessar Pasta da Unidade 4](unidade-4/) |
+
+---
+
+### 📚 Conteúdo Programático
+
+O curso abrange os principais pilares do desenvolvimento front-end moderno:
+
+* **HTML5 (Estrutura):**
+    * Sintaxe e semântica do HTML.
+    * Estrutura básica de uma página web.
+    * Elementos de formulário, multimídia e _tags_ semânticas (`<header>`, `<nav>`, `<main>`, `<footer>`, etc.).
+* **CSS3 (Estilo e Design):**
+    * Seletores, especificidade e o modelo de caixa (_Box Model_).
+    * Layouts modernos com **Flexbox** e **Grid Layout**.
+    * Design responsivo com **_Media Queries_**.
+    * Animações, transições e pré-processadores (como Sass/Less - dependendo do escopo do curso).
+* **JavaScript (Interatividade):**
+    * Fundamentos da linguagem (variáveis, tipos de dados, operadores, estruturas de controle).
+    * Manipulação do DOM (_Document Object Model_).
+    * Eventos, funções assíncronas (_Promises_, `async/await`).
+    * Introdução a _frameworks_ ou bibliotecas front-end (como React, Vue.js ou Angular - dependendo do escopo do curso).
+
+---
+
+### 📂 Estrutura do Repositório
+
+O repositório está organizado da seguinte forma:
+
+| Diretório | Descrição |
+| :--- | :--- |
+| **`aulas/`** | 👨‍🏫 Códigos e exemplos práticos demonstrados em aula. |
+| **`exercicios/`** | 📝 Resoluções de listas de exercícios e desafios propostos. |
+| **`projetos/`** | 💻 Projetos maiores e trabalhos práticos desenvolvidos ao longo da matéria. |
+| **`docs/`** | 📖 Materiais de apoio, slides ou leituras complementares. |
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+As principais tecnologias e ferramentas utilizadas neste curso incluem:
+
+* **Linguagens:** HTML5, CSS3, JavaScript (ES6+).
+* **Controle de Versão:** Git e GitHub.
+* **Ambiente de Desenvolvimento:** VS Code (ou similar).
+* **Outras Ferramentas:** Ferramentas de desenvolvimento do navegador.
+
+---
+
+### 🧑‍💻 Como Visualizar e Executar
+
+Para clonar e executar os projetos e exemplos, siga os passos abaixo:
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://docs.github.com/pt/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github](https://docs.github.com/pt/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github)
+    ```
+2.  **Navegue até o diretório desejado** (`projetos/`, `exercicios/`, etc.).
+3.  Abra os arquivos `index.html` (ou o arquivo principal do projeto) diretamente no seu navegador, ou utilize extensões como o **Live Server** (para VS Code) para ter um ambiente de desenvolvimento com _hot reload_.
+
+---
+
+### 📌 Status dos Projetos
+
+| Nome do Projeto | Status | Descrição |
+| :--- | :--- | :--- |
+| **[Nome do Projeto 1]** | ✅ Concluído | [Breve descrição do projeto e o que ele demonstra] |
+| **[Nome do Projeto 2]** | 🚧 Em Andamento | [Breve descrição do projeto e o que está sendo implementado] |
+| **[Nome do Projeto N]** | 💡 Ideia | [Sugestão ou projeto futuro] |
+
+---
+
+### 📝 Licença
+
+Este projeto está sob a licença **MIT** (ou outra licença de sua escolha).
