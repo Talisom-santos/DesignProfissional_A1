@@ -15,9 +15,9 @@ O objetivo desta matéria é introduzir e aprofundar os conceitos de criação d
 
 ## 📂 Estrutura do Repositório
 
-| Pasta | Conteúdo | Status |
+| Atividade | Conteúdo |  |
 | :--- | :--- | :---: |
-| `/Projeto-01` | Introdução ao HTML e Tags básicas | ✅ |
-| `/aula-02` | CSS Básico e Seletores | ✅ |
-| `/projeto-final` | Landing Page Responsiva | 🚧 |
+| `Site Pessoal` | Criação de uma página de apresentação utilizando tags semânticas.|  |
+| `Landing Page` | Desenvolvimento de página com layout flexível. | |
+
 
