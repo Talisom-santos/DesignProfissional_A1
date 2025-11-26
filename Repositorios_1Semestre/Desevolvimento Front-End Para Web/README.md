@@ -16,7 +16,7 @@ O objetivo desta matéria é introduzir e aprofundar os conceitos de criação d
 
 | Pasta | Conteúdo | Status |
 | :--- | :--- | :---: |
-| `/aula-01` | Introdução ao HTML e Tags básicas | ✅ |
+| `/Projeto-01` | Introdução ao HTML e Tags básicas | ✅ |
 | `/aula-02` | CSS Básico e Seletores | ✅ |
 | `/projeto-final` | Landing Page Responsiva | 🚧 |
 
