@@ -34,7 +34,7 @@ Durante este curso, desenvolvi competências para:
 | `/01-conceitos` | Anotações sobre dados vs informação e ética. |
 | `/02-modelagem-conceitual` | Diagramas ER (MER/DER) de estudos de caso. |
 | `/03-normalizacao` | Exercícios de passagem da 1FN, 2FN e 3FN. |
-| `/04-sql-scripts` | Scripts de criação de tabelas e queries (CRUD). |
+| `/04-sql-scripts` | Scripts de criação de tabelas e queries (PGadmin). |
 
 ## 🚀 Como visualizar os projetos
 1. Clone o repositório: `git clone https://github.com/seu-usuario/modelagem-bd.git`
