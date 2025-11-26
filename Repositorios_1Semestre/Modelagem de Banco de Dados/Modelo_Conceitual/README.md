@@ -51,6 +51,7 @@ graph TD;
     
     class Cid,Uni,Agente,Logs,Patrulha,Zona,Disp,Alerta entidade;
     class RelOcor,RelTrab,RelPart,RelAcao,RelReg,RelInst,RelDet,RelGera,RelCham relacao;
+```
 🗂️ Dicionário de Dados
 Abaixo segue a descrição das principais entidades modeladas neste sistema:
 🏢 Estrutura Policial
