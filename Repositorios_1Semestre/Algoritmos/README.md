@@ -7,6 +7,6 @@
 Nesta disciplina, estudamos lógica de programação, estruturas de decisão (if/else), laços de repetição (for/while) e vetores.
 
 ## 📂 Projetos e Atividades
-*   **Calculadora Simples:** Script para operações básicas.
+*   **Calculadora Simples:** Script para operações básicas: (Desenvolvido por Ector Carvalho, Erick Bruno, Leonardo Teles, Talisom Izidoro).
 *   **Média de Notas:** Algoritmo para calcular aprovação de alunos.
 *   **Métodos de Ordenação:** Atividade exemplificando ordenação utilizando RGM.
