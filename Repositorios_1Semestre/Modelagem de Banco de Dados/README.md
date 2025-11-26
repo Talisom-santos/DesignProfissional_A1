@@ -41,11 +41,15 @@ Durante este curso, desenvolvi competências para:
 3. Para os scripts SQL, importe os arquivos `.sql` no seu SGBD de preferência.
 
 ---
-Desenvolvido por **[Seu Nome]** durante o curso de **[Nome do Curso/Faculdade]**.
-Opção 2: Visual e Direta (Estilo "Badges")
-Mais focada nas ferramentas e no resumo visual, ótima para quem visita seu perfil rapidamente.
-code
-Markdown
+Desenvolvido por **[Clara Geovana Caldeira Da Silva,
+Danilo De Morais Lopes,
+Davi lucas de oliveira sousa,
+Luis Gustavo Goncalves Guabiraba,
+Rhuan Ciacco Cipriano Resende,
+Talisom Santos Izidoro,
+Yan Gutto Afonso Tertuliano Silva,
+]** durante o curso de **[Modelagem de Banco de Dados/Centro Universitário do Distrito Federal]**.
+
 <h1 align="center">🎲 Modelagem de Banco de Dados</h1>
 
 <p align="center">
@@ -66,7 +70,7 @@ Repositório de estudos focado na estruturação de dados para sistemas de infor
 ### 🔹 2. Modelagem Conceitual (MER/DER)
 *   Identificação de Entidades e Atributos.
 *   Relacionamentos e Cardinalidade.
-*   *Ferramentas:* [Ex: BRModelo, Draw.io].
+*   *Ferramentas:* [Ex: BRModelo, PGadmin].
 
 ### 🔹 3. Modelagem Lógica
 *   Normalização (1FN, 2FN, 3FN).
@@ -76,60 +80,4 @@ Repositório de estudos focado na estruturação de dados para sistemas de infor
 ### 🔹 4. Implementação (SQL)
 *   **DDL:** Criação de estruturas (`CREATE`, `ALTER`, `DROP`).
 *   **DML:** Manipulação de dados (`INSERT`, `UPDATE`, `DELETE`).
-*   **DQL:** Consultas avançadas (`SELECT`, `JOINs`).
 
-## 💻 Exemplo de Código
-```sql
--- Exemplo de criação de tabela desenvolvido em aula
-CREATE TABLE Clientes (
-    ID INT PRIMARY KEY AUTO_INCREMENT,
-    Nome VARCHAR(100) NOT NULL,
-    Email VARCHAR(100) UNIQUE,
-    DataCadastro DATETIME DEFAULT CURRENT_TIMESTAMP
-);
-🤝 Autor
-<a href="https://github.com/seu-usuario">
-<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/000000?v=4" width="100px;" alt=""/>
-<br />
-<sub><b>[Seu Nome]</b></sub>
-</a>
-Feito com ❤️ e SQL.
-code
-Code
----
-
-### Opção 3: Focada em Estudos de Caso (Prática)
-Se você vai subir muitos exercícios ou "projetinhos" (ex: modelar um banco para biblioteca, para um e-commerce, etc), use este.
-
-```markdown
-# Modelagem de Banco de Dados 💾
-
-Este repositório documenta minha jornada de aprendizado em **Modelagem de Banco de Dados**, cobrindo desde a análise de requisitos até a execução de queries SQL.
-
-## 🧠 O que estou aprendendo?
-A disciplina foca em desenvolver a capacidade de projetar sistemas que atendam às demandas organizacionais, transformando "dados brutos" em estruturas inteligentes para tomada de decisão.
-
-## 🗂️ Lista de Projetos / Estudos de Caso
-
-Aqui estão os cenários práticos simulados durante o curso:
-
-### 1. Sistema de Biblioteca (Exemplo)
-*   **Desafio:** Gerenciar empréstimos, livros e autores.
-*   **Artefatos:** [Diagrama DER](./biblioteca/der.png) | [Script SQL](./biblioteca/script.sql)
-*   **Conceitos:** Relacionamento N:N, Chaves Estrangeiras.
-
-### 2. E-commerce Simples (Exemplo)
-*   **Desafio:** Controle de pedidos, produtos e estoque.
-*   **Artefatos:** [Modelo Lógico](./ecommerce/logico.png)
-*   **Conceitos:** Normalização, Integridade Referencial.
-
-## 🛠️ Stack Tecnológico
-*   **Modelagem:** [Nome da Ferramenta]
-*   **Banco de Dados:** [Nome do Banco]
-
-## 📜 Licença
-Este projeto está sob a licença MIT. Sinta-se à vontade para utilizar os scripts para estudo.
-
----
-**[Seu Nome]**
-[Link para seu LinkedIn]
