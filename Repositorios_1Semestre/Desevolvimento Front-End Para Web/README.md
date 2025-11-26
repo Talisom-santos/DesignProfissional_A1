@@ -1,7 +1,8 @@
 
 # 📚 Desenvolvimento Front-End para Web
 
-Repositório destinado ao armazenamento de exercícios, anotações e projetos desenvolvidos durante a disciplina de **Desenvolvimento Front-End**, cursada em **[Ano/Semestre]** na **[Nome da Instituição/Faculdade]**.
+Repositório destinado ao armazenamento de exercícios, anotações e projetos desenvolvidos durante a disciplina de **Desenvolvimento Front-End**, cursada em **2025/1º Semestre** no **Centro Universitário do Distrito Federal/Análise e Desenvolvimento de Sistemas**.
+
 
 ## 📝 Sobre a disciplina
 O objetivo desta matéria é introduzir e aprofundar os conceitos de criação de interfaces web, focando na tríade padrão da web (HTML, CSS e JavaScript) e frameworks modernos.
