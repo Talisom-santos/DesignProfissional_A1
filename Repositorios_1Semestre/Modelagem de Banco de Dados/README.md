@@ -31,7 +31,7 @@ Durante este curso, desenvolvi competências para:
 
 | Pasta | Descrição |
 | :--- | :--- |
-| `/01-modelagem-conceitual` | Diagramas ER (MER/DER) de estudos de caso. |
+| `/01-modelagem-conceitual` | Diagramas ER (DER) de estudos de caso. |
 | `/02-normalizacao` | Exercícios de passagem da 1FN, 2FN e 3FN. |
 | `/03-sql-scripts` | Scripts de criação de tabelas e queries (PGadmin). |
 
