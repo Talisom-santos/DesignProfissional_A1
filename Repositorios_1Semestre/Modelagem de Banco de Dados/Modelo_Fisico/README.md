@@ -19,4 +19,4 @@ O banco resolve as seguintes entidades e suas relações:
 | `cidadao`| Dadosdemográficos e contatos. |
 | `ocorrencia` | Registros de crimes e infrações. |
 | `dispositivo_monitoramento` | Inventário de equipamentos (Câmeras, Drones). |
-| `logs_sistema`       Auditoria de ações tomadas durante patrulhamentos. |
+| `logs_sistema`     |  Auditoria de ações tomadas durante patrulhamentos. |
