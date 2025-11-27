@@ -33,3 +33,30 @@ DesignProfissional_A1
 │   └── Comunicacao/
 └── README.md (Este arquivo)
 ```
+## 🛠️ Ecossistema de Aprendizado (1º Semestre)
+
+Aqui consolidamos a teoria e a prática. Cada módulo representa uma competência técnica adquirida.
+
+### 🎨 Desevolvimento Front-End Para Web
+> *Foco: Criação de experiências visuais, responsividade e manipulação do DOM.*
+*   **Techs:** `HTML5` `CSS3` `Flexbox` `JavaScript` `Materialize`
+*   **Destaque:** 📱 Layout Mobile-First & ✨ Landing Page com Efeito Parallax.
+*   🔗 **[Explorar Projetos](./Repositorios_1Semestre/Desenvolvimento_Front_End_Para_Web)**
+
+### 🗄️ Modelagem de Banco de Dados
+> *Foco: Estruturação, integridade e consulta de dados relacionais.*
+*   **Techs:** `SQL` `MER` `Normalização` `brModelo`
+*   **Destaque:** 🎓 Sistema de Gestão Acadêmica (Modelagem Completa).
+*   🔗 **[Explorar Projetos](./Repositorios_1Semestre/Modelagem_BancoDados)**
+
+### ⚙️ Algoritmos e Pensamento Computacional
+> *Foco: Performance, estruturas de dados e resolução de problemas complexos.*
+*   **Techs:** `Linguagem C` `Structs` `Análise Assintótica` `Ponteiros`
+*   **Destaque:** 🧮 Calculadora Científica & 📉 Análise de Performance Bubble Sort.
+*   🔗 **[Explorar Projetos](./Repositorios_1Semestre/Algoritmos)**
+
+### 💼 Design Profissional
+> *Foco: Posicionamento de mercado, ética e sustentabilidade em TI.*
+*   **Temas:** `Green IT` `Escrita Técnica` `Design Profissional`
+*   **Destaque:** ♻️ Infográfico sobre Lixo Eletrônico & Portfólio Estruturado.
+*   🔗 **[Explorar Projetos](./Repositorios_1Semestre/Design_Profissional)**
