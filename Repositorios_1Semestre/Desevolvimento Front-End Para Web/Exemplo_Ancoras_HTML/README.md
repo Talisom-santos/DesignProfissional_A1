@@ -1,40 +1,32 @@
-# ⚓ Navegação Interna com Âncoras HTML
+# Navegação Interna com Âncoras (Anchor Links)
 
-> **Status:** ✔️ Concluído
-> **Tecnologia:** HTML Básico
+Este projeto demonstra a implementação de links de navegação interna utilizando HTML puro. A técnica é essencial para a criação de Landing Pages e sites de página única (One Page), melhorando significativamente a Experiência do Usuário (UX).
 
-## 📄 Sobre o Projeto
-Este é um exemplo prático desenvolvido na disciplina de **Design Front End**. O objetivo foi compreender o funcionamento da tag `<a>` (Anchor) quando utilizada para navegação dentro da mesma página (Internal Linking).
+## 🎯 Objetivo
+Demonstrar o funcionamento prático da tag `<a>` para saltos de conteúdo dentro do mesmo documento DOM.
 
-Este recurso é fundamental para melhorar a Experiência do Usuário (UX) em páginas com muito conteúdo (One Page), permitindo saltar diretamente para seções específicas.
+## 🛠 Funcionalidades
+- [x] **Índice de Navegação:** Menu superior com links diretos para tópicos.
+- [x] **Seccionamento:** Delimitação de conteúdo usando âncoras nomeadas.
+- [x] **Loop de Navegação:** Funcionalidade de "Voltar ao Topo" após cada leitura.
 
-## ⚙️ Funcionalidades Demonstradas
-*   **Menu de Índice:** Links no topo que direcionam o usuário instantaneamente para os tópicos abaixo.
-*   **Definição de Seções:** Uso de marcadores invisíveis (`name="..."`) para delimitar onde cada capítulo começa.
-*   **Voltar ao Topo:** Implementação de links no final de cada seção que trazem o usuário de volta ao início da página.
+## 📝 Exemplo de Implementação
 
-## 💻 Estrutura do Código
+A lógica baseia-se na referência de IDs ou Nomes através do seletor `#`:
 
-O projeto explora a relação entre o atributo `href` e o atributo `name`.
-
-### 1. O Link (Gatilho)
-Utiliza-se o símbolo **#** (hashtag) para indicar que o destino é um ID ou Nome local.
 ```html
-<!-- Link que clica -->
-<a href="#Secao1">Ir para Seção 1</a>
-2. O Destino (Âncora)
-Define o ponto de aterrissagem na página.
-code
-Html
-<!-- Local de destino -->
-<a name="Secao1"></a>
-<h3>Conteúdo da Seção 1...</h3>
-```
-# 🛠️ Tecnologias Utilizadas
-HTML: Estruturação semântica e criação de hiperlinks.
+<!-- Link de Chamada -->
+<nav>
+    <a href="#introducao">Introdução</a> |
+    <a href="#conclusao">Conclusão</a>
+</nav>
 
-# 🚀 Como Executar
-* Baixe o arquivo index.html deste diretório.
-* Abra o arquivo em qualquer navegador web (Chrome, Firefox, Edge).
-* Clique nos links "Seção", "Âncoras" e "Links" para testar a rolagem automática.
-# Desenvolvido por Talisom Santos
+<!-- Conteúdo Alvo -->
+<a name="introducao"></a>
+<h2>Introdução</h2>
+<p>Texto aqui...</p>
+<a href="#top">Voltar ao topo</a>
+🚀 Execução
+Basta abrir o arquivo index.html em seu navegador de preferência. Não há necessidade de instalação de dependências ou servidores.
+👨‍💻 Autor
+Talisom Santos
