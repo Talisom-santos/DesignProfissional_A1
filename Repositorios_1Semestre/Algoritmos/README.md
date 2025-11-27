@@ -40,11 +40,11 @@ Ferramentas e bibliotecas dominadas durante o desenvolvimento dos projetos desta
 
 Abaixo estão os principais softwares desenvolvidos:
 
-| Atividade | Descrição | Acesso |
+| Atividade | Descrição | |
 | :--- | :--- | :---: |
-| **Calculadora Científica Modular** | **Destaque do Semestre.** Sistema robusto com 27 operações (Matrizes, Bhaskara). Técnica: Uso de Structs, Malloc e Persistência em CSV para salvar histórico. | [📂 Ver Projeto](./projeto_calculadora_cientifica) |
-| **Análise de Algoritmos (Bubble Sort)** | Estudo de performance e complexidade ($O(N^2)$) na ordenação de RGM. Usa `clock()` para medir tempo de CPU e contagem de passos. | [📂 Ver Projeto](./Bubble_Sort) |
-| **Cálculo de Média Escolar** | Introdução à lógica condicional. Cálculo de média e verificação de status (Aprovado/Reprovado) usando `if/else` e `float`. | [📂 Ver Projeto](./media) |
+| **Calculadora Científica Modular** | **Destaque do Semestre.** Sistema robusto com 27 operações (Matrizes, Bhaskara). Técnica: Uso de Structs, Malloc e Persistência em CSV para salvar histórico. |  |
+| **Análise de Algoritmos (Bubble Sort)** | Estudo de performance e complexidade ($O(N^2)$) na ordenação de RGM. Usa `clock()` para medir tempo de CPU e contagem de passos. | |
+| **Cálculo de Média Escolar** | Introdução à lógica condicional. Cálculo de média e verificação de status (Aprovado/Reprovado) usando `if/else` e `float`. | |
 
 ---
 
