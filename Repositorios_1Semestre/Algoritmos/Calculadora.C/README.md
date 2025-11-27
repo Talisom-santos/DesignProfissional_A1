@@ -91,13 +91,3 @@ Bash
 </div>
 
 ```
-# Por que esse modelo é legal?
-
-Banner ASCII: Chama a atenção imediatamente e dá o tom "hacker/terminal".
-
-Foco Técnico: A tabela "O que tem debaixo do capô" mostra para quem ler (professores ou recrutadores) que você não apenas copiou fórmulas 
-matemáticas, mas entende de malloc, structs e pointers.
-
-Badges Personalizadas: As cores e nomes nas badges (shields.io) dão um ar profissional.
-
-Snippet de Código: Mostrar a struct no README prova que você sabe organizar dados.
