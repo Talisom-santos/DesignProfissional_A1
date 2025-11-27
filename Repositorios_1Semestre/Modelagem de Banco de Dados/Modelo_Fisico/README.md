@@ -3,7 +3,7 @@ Um esquema de banco de dados relacional normalizado para gestão integrada de se
 
 # 📋 Visão Geral #
 Este repositório contém o script DDL e DML para a criação do schema seguranca. O projeto modela um cenário real de despacho policial, onde dispositivos de monitoramento detectam anomalias e geram alertas que são convertidos em chamados para patrulhas.
-# 🧩 Diagrama de Entidade-Relacionamento (Conceitual) #
+# 🧩 Diagrama de Entidade-Relacionamento  #
 O banco resolve as seguintes entidades e suas relações:
 * **Entidades Fortes:** Cidadao, Unidade Policial, Alerta.
   
