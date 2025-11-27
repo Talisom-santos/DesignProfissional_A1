@@ -22,13 +22,13 @@ Aqui consolidamos a teoria e a prática. Cada módulo representa uma competênci
 > *Foco: Criação de experiências visuais, responsividade e manipulação do DOM.*
 *   **Techs:** `HTML5` `CSS3` `Flexbox` `JavaScript` `Materialize`
 *   **Destaque:** 📱 Layout Mobile-First & ✨ Landing Page com Efeito Parallax.
-*   🔗 **[Explorar Projetos](./Repositorios1Semestre/Desenvolvimento_FrontEndParaWeb)**
+*   🔗 **[Explorar Projetos](./Repositorios1Semestre/Desevolvimento_Front-End_Para_Web)**
 
 ### 🗄️ Modelagem de Banco de Dados
 > *Foco: Estruturação, integridade e consulta de dados relacionais.*
 *   **Techs:** `SQL` `MER` `Normalização` `brModelo`
 *   **Destaque:** 🎓 Sistema de Gestão Acadêmica (Modelagem Completa).
-*   🔗 **[Explorar Projetos](./Repositorios1Semestre/ModelagemBancoDados)**
+*   🔗 **[Explorar Projetos](./Repositorios1Semestre/Modelagem_de_Banco_de_Dados)**
 
 ### ⚙️ Algoritmos e Pensamento Computacional
 > *Foco: Performance, estruturas de dados e resolução de problemas complexos.*
@@ -40,4 +40,4 @@ Aqui consolidamos a teoria e a prática. Cada módulo representa uma competênci
 > *Foco: Posicionamento de mercado, ética e sustentabilidade em TI.*
 *   **Temas:** `Green IT` `Escrita Técnica` `Design Profissional`
 *   **Destaque:** ♻️ Infográfico sobre Lixo Eletrônico & Portfólio Estruturado.
-*   🔗 **[Explorar Projetos](./Repositorios1Semestre/DesignProfissional)**
+*   🔗 **[Explorar Projetos](./Repositorios1Semestre/Design_Profissional)**
