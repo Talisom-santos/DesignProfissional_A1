@@ -1,64 +1,51 @@
-# 💡 Interatividade com JavaScript: Projeto Lâmpada
+# Projeto Lâmpada (JS DOM Manipulation)
 
-> **Status:** ✔️ Concluído
-> **Foco:** Manipulação do DOM e Lógica Básica
+Este repositório contém uma aplicação introdutória focada na manipulação do **Document Object Model (DOM)** utilizando JavaScript puro. O projeto simula o funcionamento de uma lâmpada controlada por eventos de clique.
 
-## 📄 Sobre o Projeto
-Este projeto introdutório explora o poder do **JavaScript** para alterar dinamicamente elementos de uma página HTML sem a necessidade de recarregá-la.
+## 🎯 Objetivo
+Demonstrar como alterar atributos HTML dinamicamente (neste caso, o `src` de uma imagem) sem a necessidade de recarregar a página, conceito fundamental para Single Page Applications (SPAs) modernas.
 
-O objetivo principal é criar uma simulação de um interruptor, onde o usuário pode "acender" e "apagar" uma lâmpada. Isso é feito alterando o atributo `src` da tag `<img>` através de uma função JavaScript acionada por eventos de clique.
+## ⚙️ Funcionalidades Implementadas
+- [x] Troca dinâmica de ativos de imagem (Assets Swapping).
+- [x] Controle de fluxo condicional simples (`if/else`).
+- [x] Navegação via `window.location`.
+- [x] Separação de conceitos (HTML Estrutural, CSS Visual, JS Lógico).
 
-## ⚙️ Funcionalidades
-*   **Redirecionamento:** Uso de `window.location.href` para navegar entre a página inicial e a aplicação.
-*   **Manipulação de Atributos:** O script identifica o estado desejado (aceso/apagado) e troca a imagem exibida instantaneamente.
-*   **Estilização Centralizada:** Uso de um arquivo CSS externo para aplicar fundos, transparências e estilos aos botões.
+## 🗂 Estrutura do Projeto
 
-## 📂 Estrutura de Arquivos
-
-Para que o projeto funcione (especialmente o carregamento das imagens e estilos), a estrutura de pastas deve ser organizada da seguinte forma:
-
-```text
+```bash
 Projeto_Lampada_JS/
-├── index.html             # Página de boas-vindas
-├── lampada.html           # Aplicação da lâmpada
+├── index.html
+├── lampada.html
 ├── css/
-│   └── estilos.css        # Folha de estilos
+│   └── estilos.css
 ├── js/
-│   └── configuracoes.js   # Lógica do JavaScript
-├── imagens/               # Pasta de recursos visuais
-│   ├── lampadaon.gif
-│   ├── lampadaoff.gif
-│   └── logoHTML5.png
-└── README.md
-🧠 Lógica do Código (JavaScript)
-O coração do projeto está na função luz(sw) localizada em js/configuracoes.js. Ela recebe um parâmetro (0 ou 1) para decidir qual imagem mostrar.
+│   └── configuracoes.js
+└── imagens/
+    ├── lampadaon.gif
+    ├── lampadaoff.gif
+    └── logoHTML5.png
+💻 Exemplo de Código
+A função principal recebe um parâmetro de estado (sw) e define qual imagem será renderizada no elemento alvo:
 code
 JavaScript
+// Localizado em: js/configuracoes.js
 function luz(sw) {
     var img;
-    // Se o parâmetro for 0, carrega a imagem apagada
     if (sw == 0) {
-        img = "imagens/lampadaoff.gif";
-    } 
-    // Caso contrário, carrega a imagem acesa
-    else {
-        img = "imagens/lampadaon.gif";
+        img = "imagens/lampadaoff.gif"; // Estado: Apagado
+    } else {
+        img = "imagens/lampadaon.gif";  // Estado: Aceso
     }
-    
-    // O DOM acessa o elemento pelo ID e troca o 'source' da imagem
     document.getElementById('minhaImagem').src = img;
 }
-```
-🛠️ Tecnologias Utilizadas
+🚀 Instalação e Execução
+Baixe o projeto.
+Garanta que as imagens estão na pasta correta para evitar erros 404.
+Execute o arquivo index.html em qualquer navegador moderno.
+🛠 Tecnologias
+![alt text](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
-* ![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![alt text](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-* ![alt text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-* ![alt text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-# 🚀 Como Executar
-* Certifique-se de que as imagens (lampadaon.gif, lampadaoff.gif) estejam na pasta imagens.
-* Abra o arquivo index.html.
-* Clique no botão para ir à página da lâmpada.
-* Teste os botões "Luz Acesa" e "Luz Apagada".
-# Desenvolvido por Talisom Santos
+![alt text](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
