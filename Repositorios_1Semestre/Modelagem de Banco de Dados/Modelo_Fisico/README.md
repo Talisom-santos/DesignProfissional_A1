@@ -14,8 +14,9 @@ O banco resolve as seguintes entidades e suas relações:
 * **Auditoria:** Tabela de logs_sistema para rastreabilidade de ações.
 
 # 🗃️ Estrutura do Banco #
-**Tabela**          **Descrição**
-`cidadao`           Dadosdemográficos e contatos.
-`ocorrencia`	       Registros de crimes e infrações.
-`dispositivo_monitoramento`	    Inventário de equipamentos (Câmeras, Drones).
-`logs_sistema`       Auditoria de ações tomadas durante patrulhamentos.
+|**Tabela**| **Descrição**|
+| :--- |:---:|
+| `cidadao`| Dadosdemográficos e contatos. |
+| `ocorrencia` | Registros de crimes e infrações. |
+| `dispositivo_monitoramento` | Inventário de equipamentos (Câmeras, Drones). |
+| `logs_sistema`       Auditoria de ações tomadas durante patrulhamentos. |
