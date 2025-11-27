@@ -14,7 +14,7 @@ Este repositório foi criado como parte da **Avaliação A1** da disciplina de *
 Abaixo estão listados os itens solicitados no checklist da avaliação, organizados conforme as diretrizes da disciplina.
 
 
-## 🛠️ Ecossistema de Aprendizado (1º Semestre)
+## 🛠️ Ecossistema do Aprendizado (1º Semestre)
 
 Aqui consolidamos a teoria e a prática. Cada módulo representa uma competência técnica adquirida.
 
