@@ -1,0 +1,59 @@
+Modelo lógico 
+ 
+Cidadão * Un Policial - N:N 
+Cidadão (id_cidadao, nome, cpf, contato) 
+Unidade Policial (id_unidade, nome, telefone, endereco, area_atuacao) 
+Ocorrência (id_ocorrencia, id_cidadao, id_unidade, data hora, descricao) 
+           id_cidadao referencia Cidadão 
+            id_unidade referencia Unidade Policial 
+ 
+Un Policial * Ag Segurança - 1:N 
+Unidade Policial (id_unidade, nome, telefone, endereco, area_atuacao) 
+Agente de Segurança (id_agente, id_unidade, matricula, nome, funcao) 
+                     id_unidade referencia Unidade Policial 
+ 
+Un Policial * Zona de Risco - 1:N 
+Unidade Policial (id_unidade, nome, telefone, endereco, area_atuacao) 
+Zona de Risco (id_zona, id_unidade, nome_zona, latitude, longitude) 
+               id_unidade referencia Unidade Policial 
+ 
+Un Policial * Disp Monit - N:N 
+Unidade Policial (id_unidade, nome, telefone, endereco, area_atuacao) 
+Dispositivo de Monitoramento (id_dispositivo, numero_serie, latitude, longitude) 
+Detecta (id_unidade, id_dispositivo) 
+         id_unidade referencia Unidade Policial 
+         id_dispositivo referencia Dispositivo de Monitoramento 
+ 
+Ag Segurança * Patrulhamento - N:N 
+Agente de Segurança (id_agente, matricula, nome, funcao) 
+Patrulhamento (id_patrulhamento, data_hora_inicio, data_hora_fim, rota_realizada, 
+viatura_utilizada) 
+Participa (id_agente, id_patrulhamento) 
+           id_agente referencia Agente de Segurança 
+           id_patrulhamento referencia Patrulhamento 
+ 
+Zona de Risco * Disp Monit - 1:N 
+Zona de Risco (id_zona, nome_zona, latitude, longitude) 
+Dispositivo de Monitoramento (id_dispositivo, id_zona, numero_serie, latitude, longitude) 
+                              id_zona referencia Zona de Risco 
+ 
+ 
+Disp Monit * Alerta Real - N:N 
+Dispositivo de Monitoramento (id_dispositivo, numero_serie, latitude, longitude) 
+Alerta em Tempo Real (id_alerta, data_hora, descricao) 
+Gera (id_dispositivo, id_alerta) 
+id_dispositivo referencia Dispositivo de Monitoramento 
+id_alerta referencia Alerta em Tempo Real 
+Alerta Real * Patrulhamento - 1:1 
+Alerta em Tempo Real (id_alerta, data_hora, descricao) 
+Patrulhamento (id_patrulhamento, data_hora_inicio, data_hora_fim, rota_realizada, 
+viatura_utilizada) 
+Chamado (id_chamado, id_alerta, id_patrulhamento) 
+id_alerta referencia Alerta em Tempo Real 
+id_patrulhamento referencia Patrulhamento 
+Patrulhamento * Logs Sistema - 1:N 
+Patrulhamento (id_patrulhamento, data_hora_inicio, data_hora_fim, rota_realizada, 
+viatura_utilizada) 
+Logs do Sistema (id_log, id_patrulhamento, id_usuario_acao, timestamp_acao, 
+descricao_acao) 
+id_patrulhamento referencia Patrulhamento
