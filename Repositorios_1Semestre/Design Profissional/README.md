@@ -1,22 +1,26 @@
-# 🚀 Design Profissional
+# 👔 Design Profissional e Carreira
 
-**Semestre:** 1º **Foco:** Carreira, Soft Skills, Posicionamento Digital.
+> **Status:** ✔️ Concluído | **Foco:** Soft Skills & Market Fit
 
-### 📝 Sobre a Disciplina
+Esta disciplina atua como a ponte entre o conhecimento técnico e a realidade do mercado de trabalho. O objetivo foi desenvolver uma identidade profissional sólida, ética e estrategicamente posicionada para o setor de Tecnologia.
 
-Esta unidade curricular visa preparar o estudante para o mercado de TI, abordando desde a postura profissional e ética até a organização de portfólio e ferramentas de gestão.
+## 🎯 Pilares de Aprendizado
 
-### 📚 Tópicos Estudados
-
-- **Gestão de Carreira:** Planejamento e objetivos profissionais.
-- **Personal Branding:** LinkedIn e Currículo estratégico.
-- **Ferramentas:** Git/GitHub para portfólio e LaTeX para documentação.
-- **Soft Skills:** Comunicação e trabalho em equipe.
-
-### 📂 Projetos e Atividades
-
-| Atividade | Descrição |
+| Pilar | Descrição e Ferramentas |
 | :--- | :--- |
-| **Avaliação A1** | Estruturação completa do Repositório e Portfólio no GitHub. |
-| **Currículo** | Elaboração de currículo técnico em formato LaTeX. |
-| **Networking** | Participação em eventos e processos seletivos da área. |
+| **📢 Personal Branding** | Estratégias de posicionamento no LinkedIn e construção de autoridade digital. |
+| **📄 Documentação Técnica** | Criação de currículos de alta legibilidade (ATS-friendly) utilizando **LaTeX**. |
+| **💼 Gestão de Carreira** | Planejamento de trajetória, definição de metas e networking estratégico. |
+| **🛠️ Git & Portfólio** | Uso profissional do GitHub não apenas para código, mas como vitrine de projetos. |
+
+## 🚀 Entregas e Artefatos (1º Semestre)
+
+*   **[Avaliação A1 - O Portfólio](./)**  
+    *   *O que é:* Estruturação completa deste repositório, aplicando conceitos de organização digital e hierarquia da informação.
+*   **[Currículo em LaTeX](../Curriculo_Latex.pdf)**  
+    *   *O que é:* Elaboração de CV técnico focado em clareza e design limpo.
+*   **[Relatório de Networking](../Relato_Processo_Seletivo.pdf)**  
+    *   *O que é:* Análise crítica e participação em eventos/processos seletivos da área de TI.
+
+---
+[⬅️ Voltar para o Menu Principal](../README.md)
