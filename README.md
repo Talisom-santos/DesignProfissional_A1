@@ -22,7 +22,7 @@ Aqui consolidamos a teoria e a prática. Cada módulo representa uma competênci
 > *Foco: Criação de experiências visuais, responsividade e manipulação do DOM.*
 *   **Techs:** `HTML5` `CSS3` `Flexbox` `JavaScript` `Materialize`
 *   **Destaque:** 📱 Layout Mobile-First & ✨ Landing Page com Efeito Parallax.
-*   🔗 **[Explorar Projetos](./Repositorios1Semestre/Desevolvimento_Front-End_Para_Web)**
+*   🔗 **[Explorar Projetos](./Repositorios1Semestre/Desevolvimento_Front_End_Para_Web)**
 
 ### 🗄️ Modelagem de Banco de Dados
 > *Foco: Estruturação, integridade e consulta de dados relacionais.*
