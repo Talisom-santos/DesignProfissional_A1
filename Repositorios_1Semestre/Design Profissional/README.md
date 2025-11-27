@@ -15,12 +15,12 @@ Esta disciplina atua como a ponte entre o conhecimento técnico e a realidade do
 
 ## 🚀 Entregas e Artefatos (1º Semestre)
 
-*   **[Avaliação A1 - O Portfólio](./)**  
+*   **Avaliação A1 - O Portfólio**  
     *   *O que é:* Estruturação completa deste repositório, aplicando conceitos de organização digital e hierarquia da informação.
-*   **[Currículo em LaTeX](../Curriculo_Latex.pdf)**  
+*   **Currículo em LaTeX**  
     *   *O que é:* Elaboração de CV técnico focado em clareza e design limpo.
-*   **[Relatório de Networking](../Relato_Processo_Seletivo.pdf)**  
+*   **Relatório de Networking**  
     *   *O que é:* Análise crítica e participação em eventos/processos seletivos da área de TI.
 
 ---
-[⬅️ Voltar para o Menu Principal](../README.md)
+
