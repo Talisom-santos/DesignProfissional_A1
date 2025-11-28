@@ -64,4 +64,11 @@ Aqui consolidamos a teoria e a prática. Cada módulo representa uma competênci
 
 ### 🤝 **Design Profissional**
 
-- 🔗 [**Acessar Repositório**](https://github.com/Talisom-santos/Design-Profissional.git)
+- 🔗 [**Acessar Repositório**](https://github.com/Talisom-santos/Portif-lio.git)
+
+---
+
+### 🤝 **portfólio**
+
+- 🔗 [**Acessar Repositório**](https://github.com/Talisom-santos/Design-Profissional.git) 
+
