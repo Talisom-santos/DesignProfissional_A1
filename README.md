@@ -46,22 +46,22 @@ Aqui consolidamos a teoria e a prática. Cada módulo representa uma competênci
 ## 🚀 Projetos Acadêmicos - 1º Semestre $\color{red}{\text{(Repositorios Individuais)}}$ ##
 
 ### 🎨 **Desenvolvimento Front End**
-- 🔗 [**Acessar Repositório**](https://github.com/ectorfalcao/Desenvolvimento_Front_End_Para_Web.git)
+- 🔗 [**Acessar Repositório**](https://github.com/Talisom-santos/Desenvolvimento-Front-End-para-Web.git)
 
 ---
 
 ### 🗄️ **Modelagem de Banco de Dados**
 
-- 🔗 [**Acessar Repositório**](https://github.com/ectorfalcao/Modelagem_de_Banco_de_Dados.git)
+- 🔗 [**Acessar Repositório**](https://github.com/Talisom-santos/-Modelagem-de-Banco-de-Dados.git)
 
 ---
 
-### 💻 **Algoritmos e Lógica**
+### 💻 **Algoritmos-e-Pensamento-Computacional**
 
-- 🔗 [**Acessar Repositório**](https://github.com/ectorfalcao/Algoritmos.git)
+- 🔗 [**Acessar Repositório**](https://github.com/Talisom-santos/Algoritmos-e-Pensamento-Computacional.git)
 
 ---
 
 ### 🤝 **Design Profissional**
 
-- 🔗 [**Acessar Repositório**](https://github.com/ectorfalcao/Design_Profissional.git)
+- 🔗 [**Acessar Repositório**](https://github.com/Talisom-santos/Design-Profissional.git)
