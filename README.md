@@ -41,3 +41,27 @@ Aqui consolidamos a teoria e a prática. Cada módulo representa uma competênci
 *   **Temas:** `Green IT` `Escrita Técnica` `Design Profissional`
 *   **Destaque:** ♻️ Infográfico sobre Lixo Eletrônico & Portfólio Estruturado.
 *   🔗 **[Explorar Projetos](./Repositorios_1Semestre/Design_Profissional)**
+
+
+## 🚀 Projetos Acadêmicos - 1º Semestre $\color{red}{\text{(Repositorios Individuais)}}$ ##
+
+### 🎨 **Desenvolvimento Front End**
+- 🔗 [**Acessar Repositório**](https://github.com/ectorfalcao/Desenvolvimento_Front_End_Para_Web.git)
+
+---
+
+### 🗄️ **Modelagem de Banco de Dados**
+
+- 🔗 [**Acessar Repositório**](https://github.com/ectorfalcao/Modelagem_de_Banco_de_Dados.git)
+
+---
+
+### 💻 **Algoritmos e Lógica**
+
+- 🔗 [**Acessar Repositório**](https://github.com/ectorfalcao/Algoritmos.git)
+
+---
+
+### 🤝 **Design Profissional**
+
+- 🔗 [**Acessar Repositório**](https://github.com/ectorfalcao/Design_Profissional.git)
